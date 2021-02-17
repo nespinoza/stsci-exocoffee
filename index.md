@@ -1,6 +1,6 @@
 ## STScI's Exoplanet Journal Club
 
-Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Club webpage --- also known as STScI's "Exocoffee"!
+Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Club webpage --- also known as STScI's "Exocoffee" :coffee:!
 
 
 ### What is this "exocoffee"
