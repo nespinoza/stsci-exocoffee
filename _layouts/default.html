@@ -22,7 +22,15 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.day and site.time and site.location %}
+        {% if site.when and site.where %}
+        <p><b>When?</b></p>
+
+        <p> {{ site.when }}</p>
+        <br>  
+        <p><b>Where?</b></p>
+
+        <p> {{ site.when }}</p>
+
         <ul class="downloads">
             <li>When <strong>{{ site.day }}</strong></li>
             <li>Time <strong>{{ site.time }}</strong></li>

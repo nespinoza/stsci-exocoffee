@@ -2,6 +2,5 @@ theme: jekyll-theme-minimal
 logo: /img/logo.png
 title: [STScI's Exocoffee]
 description: [Website for the exoplanetary journal club at STScI]
-day: [Every other Monday]
-time: [9 AM]
-location: [Virtually (WebEx)]
+when: [Every other Monday at 9 AM]
+where: [Virtually (WebEx)]
