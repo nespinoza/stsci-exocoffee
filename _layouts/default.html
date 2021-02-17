@@ -22,8 +22,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% if site.when %}
+        <p><b>When?</b> {{ site.when }}</p>
+        {% endif %}
+
+        {% if site.where %}
+        <p><b>Where?</b> {{ site.where }}</p>
         {% endif %}
 
         {% if site.show_downloads %}
