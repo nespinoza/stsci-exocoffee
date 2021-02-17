@@ -9,7 +9,7 @@ STScI's Exocoffee is a classical academic journal club: we meet and discuss (typ
 
 ### Who can join the Exocoffee?
 
-Everyone is invited to join to our sessions, in particular STScI folks and the JHU community. As long as you have interest in exoplanetary science, you are welcome to join our sessions.
+Everyone is invited to join to our sessions, in particular STScI folks and the John Hopkins University (JHU) community. As long as you have interest in exoplanetary science, you are welcome to join our sessions.
 
 ### When? Where?
 
@@ -22,9 +22,7 @@ know!
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| Feb. 22, 2021 (Nestor Espinoza)  | Jacob Lustig-Yaeger; Julien Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); 
-                                                                          [Wagner et al., 2021](https://arxiv.org/abs/2102.05159) 
-                                                                          [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
+| Feb. 22, 2021 (Nestor Espinoza)  | Jacob Lustig-Yaeger; Julien Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
 
 
 
