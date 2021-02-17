@@ -17,8 +17,8 @@ STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a
 
 ### Sessions
 
-Below is a list of upcoming and past sessions. If you wish to present a paper in a future session, please let the moderators or the [organizers](mailto:nespinoza@stsci.edu) 
-know!
+Below is a list of upcoming and past sessions. **If you wish to present a paper in a future session, please let the moderators or the [organizers](mailto:nespinoza@stsci.edu) 
+know**!
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
