@@ -9,7 +9,7 @@ STScI's Exocoffee is a classical academic journal club: we meet and discuss (typ
 
 ### ⚫ Who can join the Exocoffee?
 
-Everyone is invited to join to our sessions, in particular STScI folks and the John Hopkins University (JHU) community. As long as you have interest in exoplanetary science, you are welcome to join our sessions.
+Everyone is invited to join our sessions, in particular STScI folks and the John Hopkins University (JHU) community, as long as you have an interest in exoplanetary science.
 
 ### ⚫ When? Where?
 
