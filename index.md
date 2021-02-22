@@ -22,6 +22,7 @@ know**!
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
+| Mar. 8, 2021 (K. Ward-Duong) |                             |                           |
 | Feb. 22, 2021 (N. Espinoza)  | J. Lustig-Yaeger; J. Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
 
 
