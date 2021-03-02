@@ -18,11 +18,11 @@ STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a
 ### ⚫ Sessions
 
 Below is a list of upcoming and past sessions. **If you wish to present a paper in a future session, please let the moderators or the [organizers](mailto:nespinoza@stsci.edu) 
-know**!
+know**! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| Mar. 8, 2021 (K. Ward-Duong) |                             |                           |
+| **Mar. 8, 2021 (K. Ward-Duong)** | N. Arulanantham                        | [Pineda et al., 2021](https://arxiv.org/abs/2102.12485)   |
 | Feb. 22, 2021 (N. Espinoza)  | J. Lustig-Yaeger; J. Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
 
 
