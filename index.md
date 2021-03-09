@@ -23,7 +23,7 @@ know**! Dates below in **bold** indicate an upcoming session.
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
 | **Mar. 22, 2021 (N. Espinoza)**  |                                    |                |
-| Mar. 8, 2021 (K. Ward-Duong) | N. Arulanantham; K. Ward-Duong     | [Pineda et al., 2021](https://arxiv.org/abs/2102.12485); [Zhu & Dong](https://arxiv.org/abs/2103.02127)|
+| Mar. 8, 2021 (K. Ward-Duong) | N. Arulanantham; K. Ward-Duong     | [Pineda et al., 2021](https://arxiv.org/abs/2102.12485); [Zhu & Dong, 2021](https://arxiv.org/abs/2103.02127)|
 | Feb. 22, 2021 (N. Espinoza)  | J. Lustig-Yaeger; J. Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
 
 
