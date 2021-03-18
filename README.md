@@ -8,9 +8,6 @@ If you are a moderator, simply add papers and presenters in the respective colum
 
 ## How to update the website at www.stsci.edu/~exocoffee
 
-This site by default runs at http://nespinoza.github.io/stsci-exocoffee, but that's not the official link of this site --- www.stsci.edu/~exocoffee is. The files for 
-this latter site are stored in the STScI servers. Here's how to update those files using this repository. 
-
 First, you need to install `ruby`, `bundler` and `jekyll`; see, e.g., (this github tutorial)[https://docs.github.com/en/enterprise-server@3.0/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll]. An even easier way of accomplishing this is with `conda` --- simply do `conda install -c conda-forge rb-jekyll`. Once that is set, you need to update/compile this site locally following these steps:
 
 1. Clone this repository.
