@@ -8,7 +8,7 @@ If you are a moderator, simply add papers and presenters in the respective colum
 
 ## How to update the website at www.stsci.edu/~exocoffee
 
-First, you need to install `ruby`, `bundler` and `jekyll`; see, e.g., (this github tutorial)[https://docs.github.com/en/enterprise-server@3.0/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll]. An even easier way of accomplishing this is with `conda` --- simply do `conda install -c conda-forge rb-jekyll`. Once that is set, you need to update/compile this site locally following these steps:
+First, you need to install `ruby`, `bundler` and `jekyll`; see, e.g., [this github tutorial](https://docs.github.com/en/enterprise-server@3.0/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll). An even easier way of accomplishing this is with `conda` --- simply do `conda install -c conda-forge rb-jekyll`. Once that is set, you need to update/compile this site locally following these steps:
 
 1. Clone this repository.
 2. Do `bundle update`. This will install/update all packages necesary to compile this site.
