@@ -15,3 +15,5 @@ First, you need to install `ruby`, `bundler` and `jekyll`; see, e.g., [this gith
 3. Do `bundle exec jekyll build`. This will create a `_site` directory. You can check the website locally with that doing `bundle exec jekyll build serve` and opening http://localhost:4000.
 4. Copy the contents of the `_site` directory to `/grp/webpages/exocoffee`. 
 5. That's it! You should see the site updated in https://www.stsci.edu/~exocoffee.
+
+For ease of updating, the `update.sh` script does steps 3-4 above automatically. So, if you have cloned and installed everything, updating the website should be as simple as doing `.update.sh` in terminal.
