@@ -29,17 +29,17 @@ know! Dates below in **bold** indicate an upcoming session.
 
 ### ⚫ &nbsp; Guidelines for presenters
 
-First of all, if you will be a presenter on an upcoming sesion: thank you very much! We really appreciate it. Here's some guidelines to follow during a presentation:
+First of all, if you will be a presenter on an upcoming sesion: **thank you very much**! We really appreciate it. Here are some guidelines to follow for the upcoming session:
 
-1. The session is informal, so: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion.
+1. **The session is informal.** This basically means: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion.
 
-2. Be mindful that while everyone is interested in exoplanets, there are colleagues working in other areas in the audience which might not have the same knowledge you have on the subject. Explaining non-standard concepts thus is very important! 
+2. **Be mindful of the different backgrounds.** While everyone is interested in exoplanets, there are colleagues working in other areas in the audience which might not have the same knowledge you have on the subject. Explaining non-standard concepts thus is very important! 
 
-3. The moderator is typically in charge of showing the paper on their end. The presenter's job is then to guide them through equations and/or figures. If for some reason you would like to share the paper on your end as the presenter, that is of course fine --- let the moderator know before the start of the session.
+3. **The moderator is _typically_ in charge of showing the paper on their end.** The presenter's job is then to guide them through equations and/or figures. If for some reason you would like to share the paper on your end as the presenter, that is of course fine --- let the moderator know before the start of the session.
 
-4. Each paper is typically discussed by about 25 minutes; note it is typical for discussions to start _during_ the presentation of, e.g., figures. The moderator is in charge of letting you know when the time to discuss the current paper is up, so be prepared to "wrap up" or show the most important points or plots of the paper at any time. Discussions are dynamic (as they should!).
+4. **Each paper is typically discussed by about 25 minutes.** Note it is typical for discussions to start _during_ the presentation of, e.g., figures. The moderator is in charge of letting you know when the time to discuss the current paper is up, so be prepared to "wrap up" or show the most important points or plots of the paper at any time. Discussions are dynamic (as they should!).
 
-5. We abide by the [AAS Code of Ethics](https://aas.org/policies/ethics).  We are dedicated to providing a harassment-free journal club experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of participants in any form. By participating on these sessions, you agree to abide by these statements as well.
+5. **We abide by the [AAS Code of Ethics](https://aas.org/policies/ethics).**  We are dedicated to providing a harassment-free journal club experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of participants in any form. By participating on these sessions, you agree to abide by these statements as well.
 
 
 
