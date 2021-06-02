@@ -22,7 +22,7 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **June 14, 2021 (J. Girard)** | N. Nikolov | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522) |
+| **June 14, 2021 (J. Girard)** | N. Nikolov, I. Rebollido | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522); [Arnold et al., 2021](https://arxiv.org/abs/2105.12264) |
 | May 17, 2021 (I. Rebollido) | N. Arulanantham, S. Mullally        | [Yifan et al., 2021](https://arxiv.org/abs/2104.13934); [Guerrero et al., 2021](https://arxiv.org/abs/2103.12538) |
 | May 3, 2021 (I. Rebollido)     | L. Pueyo, N. Espinoza            | [Facchini et al., 2021](https://arxiv.org/abs/2101.08369); [Kirk et al., 2021](https://arxiv.org/abs/2105.00012) |
 | Apr. 5, 2021 (N. Espinoza)     | E. May, N. Espinoza               | [May et al., 2021](https://arxiv.org/abs/2103.09313); [Philcox et al., 2021](https://arxiv.org/abs/2103.15829) |
