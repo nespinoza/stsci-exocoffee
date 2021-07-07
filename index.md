@@ -22,7 +22,9 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **June 14, 2021 (J. Girard)** | N. Nikolov, I. Rebollido | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522); [Arnold et al., 2021](https://arxiv.org/abs/2105.12264) |
+| **July 12, 2021 (N. Arulanantham)** | N. Espinoza | [Espinoza & Jones, 2021](https://arxiv.org/abs/2106.15687) |
+| June 28, 2021 (L. Pueyo) | L. Pueyo | [Xie et al., 2020](https://arxiv.org/pdf/2012.05242.pdf); [Fedele et al., 2021](https://arxiv.org/pdf/2106.07757.pdf) |
+| June 14, 2021 (J. Girard) | N. Nikolov, I. Rebollido | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522); [Arnold et al., 2021](https://arxiv.org/abs/2105.12264) |
 | May 17, 2021 (I. Rebollido) | N. Arulanantham, S. Mullally        | [Yifan et al., 2021](https://arxiv.org/abs/2104.13934); [Guerrero et al., 2021](https://arxiv.org/abs/2103.12538) |
 | May 3, 2021 (I. Rebollido)     | L. Pueyo, N. Espinoza            | [Facchini et al., 2021](https://arxiv.org/abs/2101.08369); [Kirk et al., 2021](https://arxiv.org/abs/2105.00012) |
 | Apr. 5, 2021 (N. Espinoza)     | E. May, N. Espinoza               | [May et al., 2021](https://arxiv.org/abs/2103.09313); [Philcox et al., 2021](https://arxiv.org/abs/2103.15829) |
