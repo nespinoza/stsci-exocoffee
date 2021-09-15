@@ -38,7 +38,7 @@ know! Dates below in **bold** indicate an upcoming session.
 
 First of all, if you will be a presenter on an upcoming sesion: **thank you very much**! We really appreciate it. Here are some guidelines to follow for the upcoming session:
 
-1. **The session is informal.** This basically means: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion.
+1. **The session is informal.** This basically means: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion. Note that going through the paper directly has the added benefit of sharing with the crowd (especially junior folks) what papers on your particular science topic typically look like. Hence, why the "please don't bring slides" policy.
 
 2. **Be mindful of the different backgrounds.** While everyone is interested in exoplanets, there are colleagues working in other areas in the audience which might not have the same knowledge you have on the subject. Explaining non-standard concepts thus is very important! 
 
