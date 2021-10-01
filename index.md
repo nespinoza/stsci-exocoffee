@@ -22,7 +22,8 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **September 20, 2021 (N.Espinoza)** | N. Arulanantham, E. Manjavacas | [Arulanantham et al., 2021](https://arxiv.org/abs/2107.10284); [Manjavacas et al., 2021](https://arxiv.org/abs/2107.12368) |
+| **October 4, 2021 (N. Espinoza)** | J. Valenti, N. Espinoza | [Fulton et al., 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...14F/abstract) [Bryson et al., 2021](https://arxiv.org/abs/2109.13996) |
+| September 20, 2021 (N. Espinoza) | N. Arulanantham, E. Manjavacas | [Arulanantham et al., 2021](https://arxiv.org/abs/2107.10284); [Manjavacas et al., 2021](https://arxiv.org/abs/2107.12368) |
 | July 26, 2021 (N. Espinoza)     | N. Arulanantham, S. Moran | [GRAVITY collaboration, 2021](https://arxiv.org/pdf/2107.02391.pdf); [Yu et al., 2021](https://www.nature.com/articles/s41550-021-01375-3) |
 | July 12, 2021 (N. Arulanantham) | N. Espinoza | [Espinoza & Jones, 2021](https://arxiv.org/abs/2106.15687) |
 | June 28, 2021 (L. Pueyo) | L. Pueyo | [Xie et al., 2020](https://arxiv.org/pdf/2012.05242.pdf); [Fedele et al., 2021](https://arxiv.org/pdf/2106.07757.pdf) |
