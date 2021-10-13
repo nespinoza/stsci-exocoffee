@@ -22,7 +22,7 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| November 1, 2021 (N. Espinoza) | S. Kendrew, L. Dos Santos | [Phillips et al., 2021](https://arxiv.org/abs/2109.12132); [Barclay et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914608B/abstract) |
+| November 1, 2021 (N. Espinoza) | L. Dos Santos | [Barclay et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914608B/abstract) |
 | **October 18, 2021 (N. Espinoza)** | I. Rebollido, N. Arulanantham | [Rebollido et al., 2021](https://arxiv.org/abs/2110.02308); [Teachey & Kipping, 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2421T/abstract) |
 | October 4, 2021 (N. Espinoza) | J. Valenti, N. Espinoza | [Fulton et al., 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...14F/abstract); [Bryson et al., 2021](https://arxiv.org/abs/2109.13996) |
 | September 20, 2021 (N. Espinoza) | N. Arulanantham, E. Manjavacas | [Arulanantham et al., 2021](https://arxiv.org/abs/2107.10284); [Manjavacas et al., 2021](https://arxiv.org/abs/2107.12368) |
