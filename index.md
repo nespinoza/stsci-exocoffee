@@ -22,7 +22,7 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| December 13, 2021 | A. Sahoo | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract) |
+| **December 13, 2021 (N. Espinoza)** | A. Sahoo, J. Girard | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract); [Janson et al., 2021](https://www.nature.com/articles/s41586-021-04124-8) |
 | **November 29, 2021 (N. Arulanantham)** | L. Dos Santos, J. Kammerer | [Dos Santos et al., 2021](https://arxiv.org/abs/2111.11370); [Martinez & Kraus, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211103087M/abstract) |
 | November 15, 2021 (L. Dos Santos) | N. Espinoza, L. Dos Santos | [Vanderburg & Rodriguez 2021](https://arxiv.org/abs/2110.14650); [Owen et al., 2021](https://arxiv.org/abs/2111.06094) |
 | November 1, 2021 (N. Espinoza) | L. Dos Santos, I. Rebollido | [Barclay et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914608B/abstract); [Schneiderman et al., 2021](https://www.nature.com/articles/s41586-021-03872-x) |
