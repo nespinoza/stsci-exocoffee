@@ -13,7 +13,7 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a work from home situation, our meetings are happening **virtually during 2021**. Contact [the organizers](mailto:nespinoza@stsci.edu) for the meeting link, or check the link on the #exocoffee Slack channel in the STScI workspace.
+STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a work from home situation, our meetings are happening **virtually during 2022**. Contact [the organizers](mailto:nespinoza@stsci.edu) for the meeting link, or check the link on the #exocoffee Slack channel in the STScI workspace.
 
 ### ⚫ &nbsp; Sessions
 
