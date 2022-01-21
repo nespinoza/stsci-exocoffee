@@ -5,7 +5,9 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; What is this "Exocoffee"?
 
-STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome!
+STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome! Anyone can volunteer to present a paper in the journal club.
+
+**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Nicole Arulanantham](https://narulanantham.github.io/)**.
 
 ### ⚫ &nbsp; Who can join the Exocoffee?
 
@@ -13,12 +15,11 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a work from home situation, our meetings are happening **virtually during 2022**. Contact [the organizers](mailto:nespinoza@stsci.edu) for the meeting link, or check the link on the #exocoffee Slack channel in the STScI workspace.
+STScI's Exocoffee happens **every other Monday at 9 AM**. Given STScI is under a work from home situation, our meetings are happening **virtually during 2022** (with a possibility of hybrid meetings in the summer). Contact the organizers (see above) for the meeting link, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
 ### ⚫ &nbsp; Sessions
 
-Below is a list of upcoming and past sessions. If you wish to present a paper in a future session, please let the moderators or the [organizers](mailto:nespinoza@stsci.edu) 
-know! Dates below in **bold** indicate an upcoming session.
+Below is a list of upcoming and past sessions. If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
