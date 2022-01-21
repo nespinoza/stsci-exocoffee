@@ -22,7 +22,7 @@ know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **January 24, 2022 (N. Espinoza)** | J. Hamer | [Hamer et al., 2022](https://arxiv.org/abs) |
+| **January 24, 2022 (N. Espinoza)** | J. Hamer, I. Rebollido | [Hamer et al., 2022](https://arxiv.org/abs); [Pearce et al., 2022](https://arxiv.org/abs/2201.08369) |
 | January 10, 2022 (N. Espinoza) | N. Arulanantham, L. Dos Santos | [Zeng et al., 2021](https://arxiv.org/abs/2112.06394); [Raymond et al., 2021](https://arxiv.org/abs/2111.13351) |
 | December 13, 2021 (N. Espinoza) | A. Sahoo, J. Girard | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract); [Janson et al., 2021](https://www.nature.com/articles/s41586-021-04124-8) |
 | November 29, 2021 (N. Arulanantham) | L. Dos Santos, J. Kammerer | [Dos Santos et al., 2021](https://arxiv.org/abs/2111.11370); [Martinez & Kraus, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211103087M/abstract) |
