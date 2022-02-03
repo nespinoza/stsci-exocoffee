@@ -23,8 +23,8 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| February 7th, 2022 (N. Arulanantham) | I. Rebollido | [Pearce et al., 2022](https://arxiv.org/abs/2201.08369) |
-| **January 24, 2022 (N. Espinoza)** | J. Hamer, N. Espinoza | [Hamer et al., 2022](https://arxiv.org/abs); [Rackham et. al, 2022](https://arxiv.org/abs) |
+| **February 7th, 2022 (N. Arulanantham)** | I. Rebollido, K. Schlaufman | [Pearce et al., 2022](https://arxiv.org/abs/2201.08369); [Reggiani et al., 2022](https://arxiv.org/abs/2201.08508) |
+| January 24, 2022 (N. Espinoza) | J. Hamer, N. Espinoza | [Hamer et al., 2022](https://arxiv.org/abs); [Rackham et. al, 2022](https://arxiv.org/abs/2201.09905) |
 | January 10, 2022 (N. Espinoza) | N. Arulanantham, L. Dos Santos | [Zeng et al., 2021](https://arxiv.org/abs/2112.06394); [Raymond et al., 2021](https://arxiv.org/abs/2111.13351) |
 | December 13, 2021 (N. Espinoza) | A. Sahoo, J. Girard | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract); [Janson et al., 2021](https://www.nature.com/articles/s41586-021-04124-8) |
 | November 29, 2021 (N. Arulanantham) | L. Dos Santos, J. Kammerer | [Dos Santos et al., 2021](https://arxiv.org/abs/2111.11370); [Martinez & Kraus, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211103087M/abstract) |
