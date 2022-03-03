@@ -24,7 +24,7 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
 | March 21st, 2022 (I. Rebollido) |                   |                  |
-| **March 7th, 2022 (I. Rebollido)** | A. Shporer, L. Dos Santos |     ; [Mikal-Evans et al., 2022] (https://arxiv.org/pdf/2202.09884.pdf)|
+| **March 7th, 2022 (I. Rebollido)** | A. Shporer, L. Dos Santos |     ; [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2202.09884.pdf) |
 | February 21st, 2022 (N. Espinoza) | A. Roy, M. Lally | [Faria et al., 2022](https://arxiv.org/abs/2202.05188); [Lally & Vanderburg, 2022](https://arxiv.org/abs/2202.08279) |
 | February 7th, 2022 (N. Arulanantham) | I. Rebollido, K. Schlaufman | [Pearce et al., 2022](https://arxiv.org/abs/2201.08369); [Reggiani et al., 2022](https://arxiv.org/abs/2201.08508) |
 | January 24, 2022 (N. Espinoza) | J. Hamer, N. Espinoza | [Hamer et al., 2022](https://arxiv.org/abs); [Rackham et. al, 2022](https://arxiv.org/abs/2201.09905) |
