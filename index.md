@@ -7,7 +7,7 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome! Anyone can volunteer to present a paper in the journal club.
 
-**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Nicole Arulanantham](https://narulanantham.github.io/)**.
+**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Isabel Rebollido](https://www.stsci.edu/stsci-research/research-directory/isabel-rebollido)**.
 
 ### ⚫ &nbsp; Who can join the Exocoffee?
 
