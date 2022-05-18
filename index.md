@@ -30,7 +30,8 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **April 19th, 2022 (I. Rebollido)**  | L. Dos Santos, N. Arulanantham | [Guzmán-Mesa et al., 2022](https://arxiv.org/pdf/2204.05971.pdf) ; [Zhu et al., 2022](https://arxiv.org/pdf/2204.04404.pdf) |
+| **May 24th, 2022 (I. Rebollido)**  | C. X. Lu | Lu et al., 2022 (accepted, soon in arXiv) ; [Bouma et al., 2022](https://arxiv.org/pdf/2205.01112.pdf) |
+| April 19th, 2022 (I. Rebollido)  | L. Dos Santos, N. Arulanantham | [Guzmán-Mesa et al., 2022](https://arxiv.org/pdf/2204.05971.pdf) ; [Zhu et al., 2022](https://arxiv.org/pdf/2204.04404.pdf) |
 | April 4th, 2022 (N. Espinoza) | E. Por, N. Espinoza | [Doelman et al., 2022](https://arxiv.org/pdf/2203.08165v1.pdf) ; [Patel & Espinoza, 2022](https://arxiv.org/abs/2203.05661) |
 | March 21st, 2022 (I. Rebollido) | N. Arulanantham, I. Rebollido | [Speedie et al., 2022](https://arxiv.org/pdf/2203.00692.pdf); [Baptiste et al., 2022](https://arxiv.org/pdf/2203.08190v1.pdf)|
 | March 7th, 2022 (I. Rebollido) | A. Shporer, L. Dos Santos | [Niraula et al., 2022](https://arxiv.org/abs/2203.07312) ; [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2202.09884.pdf) |
