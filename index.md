@@ -30,7 +30,7 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **June 21st, 2022 (I. Rebollido)**  | N. Nikolov | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ;  |
+| **June 21st, 2022 (I. Rebollido)**  | N. Nikolov, E. Manjavacas | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ; [Manjavacas et al., 2022](https://arxiv.org/pdf/2206.07566v1.pdf) |
 | June 7th, 2022 (I. Rebollido)  | W. Balmer | [Balmer et al., 2022](https://arxiv.org/pdf/2206.00687.pdf) ; AAS summary contributions |
 | May 24th, 2022 (I. Rebollido)  | C. X. Lu | [Lu et al., 2022](https://arxiv.org/pdf/2205.09138.pdf) ; [Bouma et al., 2022](https://arxiv.org/pdf/2205.01112.pdf) |
 | April 19th, 2022 (I. Rebollido)  | L. Dos Santos, N. Arulanantham | [Guzmán-Mesa et al., 2022](https://arxiv.org/pdf/2204.05971.pdf) ; [Zhu et al., 2022](https://arxiv.org/pdf/2204.04404.pdf) |
