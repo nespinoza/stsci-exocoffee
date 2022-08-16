@@ -22,7 +22,7 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is under a work from home situation, our meetings are happening **virtually during 2022** (with a possibility of hybrid meetings in the summer). Contact the organizers (see above) for the meeting link, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
+STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is under a work from home situation, our meetings are hybrid, with a changing location depending on availability. Contact the organizers (see above) for the meeting link and physical location, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
 ### ⚫ &nbsp; Sessions
 
@@ -30,7 +30,8 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **June 21st, 2022 (I. Rebollido)**  | N. Nikolov, E. Manjavacas | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ; [Manjavacas et al., 2022](https://arxiv.org/pdf/2206.07566v1.pdf) |
+| **August 2nd, 2022 (I. Rebollido)**  | N. Arulanantham, I. Rebollido | [Duval et al., 2022](https://arxiv.org/abs/2207.09027) ; [Bae et al., 2022](https://arxiv.org/abs/2207.05923) |
+| June 21st, 2022 (I. Rebollido)  | N. Nikolov, E. Manjavacas | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ; [Manjavacas et al., 2022](https://arxiv.org/pdf/2206.07566v1.pdf) |
 | June 7th, 2022 (I. Rebollido)  | W. Balmer | [Balmer et al., 2022](https://arxiv.org/pdf/2206.00687.pdf) ; AAS summary contributions |
 | May 24th, 2022 (I. Rebollido)  | C. X. Lu | [Lu et al., 2022](https://arxiv.org/pdf/2205.09138.pdf) ; [Bouma et al., 2022](https://arxiv.org/pdf/2205.01112.pdf) |
 | April 19th, 2022 (I. Rebollido)  | L. Dos Santos, N. Arulanantham | [Guzmán-Mesa et al., 2022](https://arxiv.org/pdf/2204.05971.pdf) ; [Zhu et al., 2022](https://arxiv.org/pdf/2204.04404.pdf) |
