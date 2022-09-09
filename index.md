@@ -30,7 +30,9 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
- **August 30, 2022 (N. Espinoza)**  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transiting Exoplanet Community ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
+| September 27, 2022 (N. Espinoza) | E. Rickman | [Miles et al., 2022](https://arxiv.org/abs/2209.00620) |
+| **September 14, 2022 (N. Espinoza)** | N. H. Allen, J. Kammerer | [Allen et al., 2022](https://arxiv.org/abs/2209.00637); [Carter et al., 2022](https://arxiv.org/abs/2208.14990) |
+| August 30, 2022 (N. Espinoza)  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transiting Exoplanet Community ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
 | August 16th, 2022 (N. Espinoza)  | L. Dos Santos, N. Espinoza | [Kasper et al., 2022](https://arxiv.org/abs/2208.04759) ; [Panahi et al., 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.101P/abstract) |
 | August 2nd, 2022 (I. Rebollido)  | N. Arulanantham, I. Rebollido | [Duval et al., 2022](https://arxiv.org/abs/2207.09027) ; [Bae et al., 2022](https://arxiv.org/abs/2207.05923) |
 | June 21st, 2022 (I. Rebollido)  | N. Nikolov, E. Manjavacas | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ; [Manjavacas et al., 2022](https://arxiv.org/pdf/2206.07566v1.pdf) |
