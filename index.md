@@ -22,17 +22,17 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is under a work from home situation, our meetings are hybrid, with a changing location depending on availability. Contact the organizers (see above) for the meeting link and physical location, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
+STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid, with a changing location depending on availability. Contact the organizers (see above) for the meeting link and physical location, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
-### ⚫ &nbsp; Sessions
+### ⚫ &nbsp; 2022 Sessions
 
-Below is a list of upcoming and past sessions. If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
+Below is a list of upcoming and past sessions for the 2022 period (past sessions can be found at the bottom of the page). If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
 | September 27, 2022 (N. Espinoza) | E. Rickman | [Miles et al., 2022](https://arxiv.org/abs/2209.00620) |
 | **September 14, 2022 (N. Espinoza)** | N. H. Allen, J. Kammerer | [Allen et al., 2022](https://arxiv.org/abs/2209.00637); [Carter et al., 2022](https://arxiv.org/abs/2208.14990) |
-| August 30, 2022 (N. Espinoza)  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transiting Exoplanet Community ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
+| August 30, 2022 (N. Espinoza)  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transit ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
 | August 16th, 2022 (N. Espinoza)  | L. Dos Santos, N. Espinoza | [Kasper et al., 2022](https://arxiv.org/abs/2208.04759) ; [Panahi et al., 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.101P/abstract) |
 | August 2nd, 2022 (I. Rebollido)  | N. Arulanantham, I. Rebollido | [Duval et al., 2022](https://arxiv.org/abs/2207.09027) ; [Bae et al., 2022](https://arxiv.org/abs/2207.05923) |
 | June 21st, 2022 (I. Rebollido)  | N. Nikolov, E. Manjavacas | [Nikolov et al., 2022](https://arxiv.org/pdf/2206.00017.pdf) ; [Manjavacas et al., 2022](https://arxiv.org/pdf/2206.07566v1.pdf) |
@@ -46,23 +46,6 @@ Below is a list of upcoming and past sessions. If you wish to present a paper in
 | February 7th, 2022 (N. Arulanantham) | I. Rebollido, K. Schlaufman | [Pearce et al., 2022](https://arxiv.org/abs/2201.08369); [Reggiani et al., 2022](https://arxiv.org/abs/2201.08508) |
 | January 24, 2022 (N. Espinoza) | J. Hamer, N. Espinoza | [Hamer et al., 2022](https://arxiv.org/abs); [Rackham et. al, 2022](https://arxiv.org/abs/2201.09905) |
 | January 10, 2022 (N. Espinoza) | N. Arulanantham, L. Dos Santos | [Zeng et al., 2021](https://arxiv.org/abs/2112.06394); [Raymond et al., 2021](https://arxiv.org/abs/2111.13351) |
-| December 13, 2021 (N. Espinoza) | A. Sahoo, J. Girard | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract); [Janson et al., 2021](https://www.nature.com/articles/s41586-021-04124-8) |
-| November 29, 2021 (N. Arulanantham) | L. Dos Santos, J. Kammerer | [Dos Santos et al., 2021](https://arxiv.org/abs/2111.11370); [Martinez & Kraus, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211103087M/abstract) |
-| November 15, 2021 (L. Dos Santos) | N. Espinoza, L. Dos Santos | [Vanderburg & Rodriguez 2021](https://arxiv.org/abs/2110.14650); [Owen et al., 2021](https://arxiv.org/abs/2111.06094) |
-| November 1, 2021 (N. Espinoza) | L. Dos Santos, I. Rebollido | [Barclay et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914608B/abstract); [Schneiderman et al., 2021](https://www.nature.com/articles/s41586-021-03872-x) |
-| October 18, 2021 (N. Espinoza) | I. Rebollido, N. Arulanantham | [Rebollido et al., 2021](https://arxiv.org/abs/2110.02308); [Teachey & Kipping, 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2421T/abstract) |
-| October 4, 2021 (N. Espinoza) | J. Valenti, N. Espinoza | [Fulton et al., 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...14F/abstract); [Bryson et al., 2021](https://arxiv.org/abs/2109.13996) |
-| September 20, 2021 (N. Espinoza) | N. Arulanantham, E. Manjavacas | [Arulanantham et al., 2021](https://arxiv.org/abs/2107.10284); [Manjavacas et al., 2021](https://arxiv.org/abs/2107.12368) |
-| July 26, 2021 (N. Espinoza)     | N. Arulanantham, S. Moran | [GRAVITY collaboration, 2021](https://arxiv.org/pdf/2107.02391.pdf); [Yu et al., 2021](https://www.nature.com/articles/s41550-021-01375-3) |
-| July 12, 2021 (N. Arulanantham) | N. Espinoza | [Espinoza & Jones, 2021](https://arxiv.org/abs/2106.15687) |
-| June 28, 2021 (L. Pueyo) | L. Pueyo | [Xie et al., 2020](https://arxiv.org/pdf/2012.05242.pdf); [Fedele et al., 2021](https://arxiv.org/pdf/2106.07757.pdf) |
-| June 14, 2021 (J. Girard) | N. Nikolov, I. Rebollido | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522); [Arnold et al., 2021](https://arxiv.org/abs/2105.12264) |
-| May 17, 2021 (I. Rebollido) | N. Arulanantham, S. Mullally        | [Yifan et al., 2021](https://arxiv.org/abs/2104.13934); [Guerrero et al., 2021](https://arxiv.org/abs/2103.12538) |
-| May 3, 2021 (I. Rebollido)     | L. Pueyo, N. Espinoza            | [Facchini et al., 2021](https://arxiv.org/abs/2101.08369); [Kirk et al., 2021](https://arxiv.org/abs/2105.00012) |
-| Apr. 5, 2021 (N. Espinoza)     | E. May, N. Espinoza               | [May et al., 2021](https://arxiv.org/abs/2103.09313); [Philcox et al., 2021](https://arxiv.org/abs/2103.15829) |
-| Mar. 22, 2021 (N. Espinoza)  | J. Valenti, N. Nikolov             | [Jorgensen et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006509); [Swain et al., 2021](https://arxiv.org/abs/2103.05657)|
-| Mar. 8, 2021 (K. Ward-Duong) | N. Arulanantham; K. Ward-Duong     | [Pineda et al., 2021](https://arxiv.org/abs/2102.12485); [Zhu & Dong, 2021](https://arxiv.org/abs/2103.02127)|
-| Feb. 22, 2021 (N. Espinoza)  | J. Lustig-Yaeger; J. Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
 
 ### ⚫ &nbsp; Guidelines for presenters
 
@@ -78,5 +61,28 @@ First of all, if you will be a presenter on an upcoming sesion: **thank you very
 
 5. **We abide by the [AAS Code of Ethics](https://aas.org/policies/ethics).**  We are dedicated to providing a harassment-free journal club experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of participants in any form. By participating on these sessions, you agree to abide by these statements as well.
 
+### ⚫ &nbsp; Past sessions
 
+Below is a full list of past sessions, all the way to the 2021 sessions:
 
+**2021 Sessions**
+
+| Date (moderator)                 | Presenters                         | Papers         |
+| ---------------------------------|:---------------------------------- | :--------------|
+| December 13, 2021 (N. Espinoza) | A. Sahoo, J. Girard | [Safonov et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211102726S/abstract); [Janson et al., 2021](https://www.nature.com/articles/s41586-021-04124-8) |
+| November 29, 2021 (N. Arulanantham) | L. Dos Santos, J. Kammerer | [Dos Santos et al., 2021](https://arxiv.org/abs/2111.11370); [Martinez & Kraus, 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv211103087M/abstract) |
+| November 15, 2021 (L. Dos Santos) | N. Espinoza, L. Dos Santos | [Vanderburg & Rodriguez 2021](https://arxiv.org/abs/2110.14650); [Owen et al., 2021](https://arxiv.org/abs/2111.06094) |
+| November 1, 2021 (N. Espinoza) | L. Dos Santos, I. Rebollido | [Barclay et al., 2021](https://ui.adsabs.harvard.edu/abs/2021arXiv210914608B/abstract); [Schneiderman et al., 2021](https://www.nature.com/articles/s41586-021-03872-x) |
+| October 18, 2021 (N. Espinoza) | I. Rebollido, N. Arulanantham | [Rebollido et al., 2021](https://arxiv.org/abs/2110.02308); [Teachey & Kipping, 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2421T/abstract) |
+| October 4, 2021 (N. Espinoza) | J. Valenti, N. Espinoza | [Fulton et al., 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...14F/abstract); [Bryson et al., 2021](https://arxiv.org/abs/2109.13996) | 
+| September 20, 2021 (N. Espinoza) | N. Arulanantham, E. Manjavacas | [Arulanantham et al., 2021](https://arxiv.org/abs/2107.10284); [Manjavacas et al., 2021](https://arxiv.org/abs/2107.12368) |
+| July 26, 2021 (N. Espinoza)     | N. Arulanantham, S. Moran | [GRAVITY collaboration, 2021](https://arxiv.org/pdf/2107.02391.pdf); [Yu et al., 2021](https://www.nature.com/articles/s41550-021-01375-3) |
+| July 12, 2021 (N. Arulanantham) | N. Espinoza | [Espinoza & Jones, 2021](https://arxiv.org/abs/2106.15687) |
+| June 28, 2021 (L. Pueyo) | L. Pueyo | [Xie et al., 2020](https://arxiv.org/pdf/2012.05242.pdf); [Fedele et al., 2021](https://arxiv.org/pdf/2106.07757.pdf) |
+| June 14, 2021 (J. Girard) | N. Nikolov, I. Rebollido | [Nikolov et al., 2021](https://arxiv.org/abs/2105.06522); [Arnold et al., 2021](https://arxiv.org/abs/2105.12264) |
+| May 17, 2021 (I. Rebollido) | N. Arulanantham, S. Mullally        | [Yifan et al., 2021](https://arxiv.org/abs/2104.13934); [Guerrero et al., 2021](https://arxiv.org/abs/2103.12538) |
+| May 3, 2021 (I. Rebollido)     | L. Pueyo, N. Espinoza            | [Facchini et al., 2021](https://arxiv.org/abs/2101.08369); [Kirk et al., 2021](https://arxiv.org/abs/2105.00012) |
+| Apr. 5, 2021 (N. Espinoza)     | E. May, N. Espinoza               | [May et al., 2021](https://arxiv.org/abs/2103.09313); [Philcox et al., 2021](https://arxiv.org/abs/2103.15829) |
+| Mar. 22, 2021 (N. Espinoza)  | J. Valenti, N. Nikolov             | [Jorgensen et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006509); [Swain et al., 2021](https://arxiv.org/abs/2103.05657)|
+| Mar. 8, 2021 (K. Ward-Duong) | N. Arulanantham; K. Ward-Duong     | [Pineda et al., 2021](https://arxiv.org/abs/2102.12485); [Zhu & Dong, 2021](https://arxiv.org/abs/2103.02127)|
+| Feb. 22, 2021 (N. Espinoza)  | J. Lustig-Yaeger; J. Girard | [Kopparapu et al., 2021](https://arxiv.org/abs/2102.05027); [Wagner et al., 2021](https://arxiv.org/abs/2102.05159), [Beichman et al., 2019](https://arxiv.org/abs/1910.09709) |
