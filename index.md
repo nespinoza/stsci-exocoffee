@@ -1,13 +1,11 @@
 ## STScI's Exoplanet Journal Club
 
-Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Club webpage --- also known as STScI's "Exocoffee" ☕!{: .text-justify}
+Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Club webpage --- also known as STScI's "Exocoffee" ☕!
 
 ### ⚫ &nbsp; Recent news
 
-- **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th). {: .text-justify}
-
-- **[March 28, 2022]** We will be cancelling May 3rd's session and moving it to the next week due to Exoplanets IV.{: .text-justify}
-
+- **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th).
+- **[March 28, 2022]** We will be cancelling May 3rd's session and moving it to the next week due to Exoplanets IV.
 
 
 ### ⚫ &nbsp; What is this "Exocoffee"?
