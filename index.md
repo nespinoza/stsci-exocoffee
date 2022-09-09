@@ -4,7 +4,7 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; Recent news
 
-- **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). For JHU people that don't have STScI badges and would like to join the in-person component, please contact the Exocoffee organizers (very easy to set this up!).
+- **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). For JHU people that don't have STScI badges and would like to join the in-person component, please contact the Exocoffee organizers (very easy to set this up!). The Exocoffee team will provide cookies; bring your own tea/coffee!
 
 - **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th).
 
@@ -15,7 +15,7 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome! Anyone can volunteer to present a paper in the journal club.
 
-**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Isabel Rebollido](https://www.stsci.edu/stsci-research/research-directory/isabel-rebollido)**.
+**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Isabel Rebollido](https://www.stsci.edu/stsci-research/research-directory/isabel-rebollido)**. The in-person component of the Exocoffee will have cookies; for now, please bring your own tea+coffee!
 
 ### ⚫ &nbsp; Who can join the Exocoffee?
 
@@ -23,7 +23,7 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid, with a changing location depending on availability. Contact the organizers (see above) for the meeting link and physical location, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
+STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid. The **location for our in-person component is on the left panel (under the logo); contact the organizers (see above) for the meeting link for the virtual component**, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
 ### ⚫ &nbsp; 2022 Sessions
 
