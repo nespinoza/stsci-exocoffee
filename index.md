@@ -4,8 +4,10 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; Recent news
 
-- **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). 
+- **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). For JHU people that don't have STScI badges and would like to join the in-person component, please contact the Exocoffee organizers (very easy to set this up!).
+
 - **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th).
+
 - **[March 28, 2022]** We will be cancelling May 3rd's session and moving it to the next week due to Exoplanets IV.
 
 
