@@ -31,7 +31,7 @@ Below is a list of upcoming and past sessions for the 2022 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **September 27, 2022 (N. Espinoza)** | E. Rickman, N. Espinoza | [Miles et al., 2022](https://arxiv.org/abs/2209.00620) [Luque & Palle, 2022](https://arxiv.org/abs/2209.03871)|
+| **September 27, 2022 (N. Espinoza)** | E. Rickman, N. Espinoza | [Miles et al., 2022](https://arxiv.org/abs/2209.00620); [Luque & Palle, 2022](https://arxiv.org/abs/2209.03871)|
 | September 14, 2022 (N. Espinoza) | N. H. Allen, J. Kammerer | [Allen et al., 2022](https://arxiv.org/abs/2209.00637); [Carter et al., 2022](https://arxiv.org/abs/2208.14990) |
 | August 30, 2022 (N. Espinoza)  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transit ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
 | August 16th, 2022 (N. Espinoza)  | L. Dos Santos, N. Espinoza | [Kasper et al., 2022](https://arxiv.org/abs/2208.04759) ; [Panahi et al., 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...663A.101P/abstract) |
