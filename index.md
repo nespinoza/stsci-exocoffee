@@ -31,7 +31,9 @@ Below is a list of upcoming and past sessions for the 2022 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **October 11, 2022 (I. Rebollido)** | E. L. Rickman, I. Rebollido | [Rickman et al., 2022](https://t.co/pKi3VxyBLr); [Kammerer et al., 2022b](https://arxiv.org/abs/2210.01782v1)|
+| **November 8th, 2022 (N. Arulanantham)** | | |
+| October 11, 2022 (I. Rebollido) | N. Nikolov, J. Kammerer | [Damiano et al., 2022](https://arxiv.org/pdf/2210.10008.pdf); [Kammerer et al., 2022c](https://arxiv.org/pdf/2210.01782v1.pdf)|
+| October 11, 2022 (I. Rebollido) | E. L. Rickman, I. Rebollido | [Rickman et al., 2022](https://t.co/pKi3VxyBLr); [Kammerer et al., 2022b](https://arxiv.org/abs/2210.01782v1)|
 | September 27, 2022 (N. Espinoza) | E. Rickman, N. Espinoza | [Miles et al., 2022](https://arxiv.org/abs/2209.00620); [Luque & Palle, 2022](https://arxiv.org/abs/2209.03871)|
 | September 14, 2022 (N. Espinoza) | N. H. Allen, J. Kammerer | [Allen et al., 2022](https://arxiv.org/abs/2209.00637); [Carter et al., 2022](https://arxiv.org/abs/2208.14990) |
 | August 30, 2022 (N. Espinoza)  | J. D. Green, Z. Rustamkulov | [Yang et al., 2022](https://arxiv.org/abs/2208.10673) ; [JWST Transit ERS Team, 2022](https://arxiv.org/abs/2208.11692) |
