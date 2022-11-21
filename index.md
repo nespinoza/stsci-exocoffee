@@ -31,7 +31,8 @@ Below is a list of upcoming and past sessions for the 2022 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **November 8th, 2022 (N. Arulanantham)** | Q. Changeat, Katie Bennett | Al-Refaie et al., [2021](https://arxiv.org/abs/1912.07759), [2022](https://arxiv.org/abs/2110.01271); [Batalha et al., 2022](https://arxiv.org/abs/2211.00702) |
+| **November 21, 2022 (N. Espinoza) ** | N. Espinoza | ERS Transiting Exoplanet papers [1, 2, 3, 4, 5]|
+| November 8th, 2022 (N. Arulanantham) | Q. Changeat, Katie Bennett | Al-Refaie et al., [2021](https://arxiv.org/abs/1912.07759), [2022](https://arxiv.org/abs/2110.01271); [Batalha et al., 2022](https://arxiv.org/abs/2211.00702) |
 | October 25, 2022 (I. Rebollido) | N. Nikolov, J. Kammerer | [Damiano et al., 2022](https://arxiv.org/pdf/2210.10008.pdf); [Kammerer et al., 2022c](https://arxiv.org/pdf/2210.01782v1.pdf)|
 | October 11, 2022 (I. Rebollido) | E. L. Rickman, I. Rebollido | [Rickman et al., 2022](https://t.co/pKi3VxyBLr); [Kammerer et al., 2022b](https://arxiv.org/abs/2210.01782v1)|
 | September 27, 2022 (N. Espinoza) | E. Rickman, N. Espinoza | [Miles et al., 2022](https://arxiv.org/abs/2209.00620); [Luque & Palle, 2022](https://arxiv.org/abs/2209.03871)|
