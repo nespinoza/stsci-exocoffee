@@ -4,6 +4,8 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; Recent news
 
+- **[December 6, 2022]** We will take a Holiday + AAS break, Exocoffee will be back *January 17th*.
+
 - **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). For JHU people that don't have STScI badges and would like to join the in-person component, please contact the Exocoffee organizers (very easy to set this up!). The Exocoffee team will provide cookies; bring your own tea/coffee!
 
 - **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th).
@@ -31,7 +33,9 @@ Below is a list of upcoming and past sessions for the 2022 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **November 22, 2022 (N. Espinoza)** | N. Espinoza | ERS Transiting Exoplanet papers [1, 2, 3, 4, 5]|
+| January 17, 2022 (tbd) | N. Oliveros-Gomez | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf)|
+| **December 6, 2022 (I. Rebollido)** | L. Dos Santos, C. Lu | [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2211.15576.pdf); [Ohno et al., 2022](https://arxiv.org/pdf/2211.07706.pdf)|
+| November 22, 2022 (N. Espinoza) | N. Espinoza | ERS Transiting Exoplanet papers [1, 2, 3, 4, 5]|
 | November 8th, 2022 (N. Arulanantham) | Q. Changeat, Katie Bennett | Al-Refaie et al., [2021](https://arxiv.org/abs/1912.07759), [2022](https://arxiv.org/abs/2110.01271); [Batalha et al., 2022](https://arxiv.org/abs/2211.00702) |
 | October 25, 2022 (I. Rebollido) | N. Nikolov, J. Kammerer | [Damiano et al., 2022](https://arxiv.org/pdf/2210.10008.pdf); [Kammerer et al., 2022c](https://arxiv.org/pdf/2210.01782v1.pdf)|
 | October 11, 2022 (I. Rebollido) | E. L. Rickman, I. Rebollido | [Rickman et al., 2022](https://t.co/pKi3VxyBLr); [Kammerer et al., 2022b](https://arxiv.org/abs/2210.01782v1)|
