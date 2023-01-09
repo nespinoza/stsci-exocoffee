@@ -17,7 +17,7 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome! Anyone can volunteer to present a paper in the journal club.
 
-**The Exocoffee in 2022 is being co-organized by [Nestor Espinoza](http://nestor-espinoza.com/) and [Isabel Rebollido](https://www.stsci.edu/stsci-research/research-directory/isabel-rebollido)**. The in-person component of the Exocoffee will have cookies; for now, please bring your own tea+coffee!
+**The Exocoffee in 2023 is being organized by [Nestor Espinoza](http://nestor-espinoza.com/)**. The in-person component of the Exocoffee will have cookies; for now, please bring your own tea+coffee!
 
 ### ⚫ &nbsp; Who can join the Exocoffee?
 
@@ -27,14 +27,36 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid. The **location for our in-person component is on the left panel (under the logo); contact the organizers (see above) for the meeting link for the virtual component**, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
-### ⚫ &nbsp; 2022 Sessions
+### ⚫ &nbsp; 20223 Sessions
 
-Below is a list of upcoming and past sessions for the 2022 period (past sessions can be found at the bottom of the page). If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
+Below is a list of upcoming and past sessions for the 2023 period (past sessions can be found at the bottom of the page). If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| January 17, 2022 (tbd) | N. Oliveros-Gomez | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf)|
-| **December 6, 2022 (I. Rebollido)** | L. Dos Santos, C. Lu | [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2211.15576.pdf); [Ohno et al., 2022](https://arxiv.org/pdf/2211.07706.pdf)|
+| January 17, 2023 (N. Espinoza) | N. Oliveros-Gomez | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf)|
+
+### ⚫ &nbsp; Guidelines for presenters
+
+First of all, if you will be a presenter on an upcoming sesion: **thank you very much**! We really appreciate it. Here are some guidelines to follow for the upcoming session:
+
+1. **The session is informal.** This basically means: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion. Note that going through the paper directly has the added benefit of sharing with the crowd (especially junior folks) what papers on your particular science topic typically look like. Hence, why the "please don't bring slides" policy.
+
+2. **Be mindful of the different backgrounds.** While everyone is interested in exoplanets, there are colleagues working in other areas in the audience which might not have the same knowledge you have on the subject. Explaining non-standard concepts thus is very important! 
+
+3. **The moderator is _typically_ in charge of showing the paper on their end.** The presenter's job is then to guide them through equations and/or figures. If for some reason you would like to share the paper on your end as the presenter, that is of course fine --- let the moderator know before the start of the session.
+
+4. **Each paper is typically discussed by about 25 minutes.** Note it is typical for discussions to start _during_ the presentation of, e.g., figures. The moderator is in charge of letting you know when the time to discuss the current paper is up, so be prepared to "wrap up" or show the most important points or plots of the paper at any time. Discussions are dynamic (as they should!).
+
+5. **We abide by the [AAS Code of Ethics](https://aas.org/policies/ethics).**  We are dedicated to providing a harassment-free journal club experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of participants in any form. By participating on these sessions, you agree to abide by these statements as well.
+
+### ⚫ &nbsp; Past sessions
+
+Below is a full list of past sessions, all the way to the 2021 sessions:
+
+**2022 Sessions**
+| Date (moderator)                 | Presenters                         | Papers         |
+| ---------------------------------|:---------------------------------- | :--------------|
+| December 6, 2022 (I. Rebollido) | L. Dos Santos, C. Lu | [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2211.15576.pdf); [Ohno et al., 2022](https://arxiv.org/pdf/2211.07706.pdf)|
 | November 22, 2022 (N. Espinoza) | N. Espinoza | ERS Transiting Exoplanet papers [1, 2, 3, 4, 5]|
 | November 8th, 2022 (N. Arulanantham) | Q. Changeat, Katie Bennett | Al-Refaie et al., [2021](https://arxiv.org/abs/1912.07759), [2022](https://arxiv.org/abs/2110.01271); [Batalha et al., 2022](https://arxiv.org/abs/2211.00702) |
 | October 25, 2022 (I. Rebollido) | N. Nikolov, J. Kammerer | [Damiano et al., 2022](https://arxiv.org/pdf/2210.10008.pdf); [Kammerer et al., 2022c](https://arxiv.org/pdf/2210.01782v1.pdf)|
@@ -55,24 +77,6 @@ Below is a list of upcoming and past sessions for the 2022 period (past sessions
 | February 7th, 2022 (N. Arulanantham) | I. Rebollido, K. Schlaufman | [Pearce et al., 2022](https://arxiv.org/abs/2201.08369); [Reggiani et al., 2022](https://arxiv.org/abs/2201.08508) |
 | January 24, 2022 (N. Espinoza) | J. Hamer, N. Espinoza | [Hamer et al., 2022](https://arxiv.org/abs); [Rackham et. al, 2022](https://arxiv.org/abs/2201.09905) |
 | January 10, 2022 (N. Espinoza) | N. Arulanantham, L. Dos Santos | [Zeng et al., 2021](https://arxiv.org/abs/2112.06394); [Raymond et al., 2021](https://arxiv.org/abs/2111.13351) |
-
-### ⚫ &nbsp; Guidelines for presenters
-
-First of all, if you will be a presenter on an upcoming sesion: **thank you very much**! We really appreciate it. Here are some guidelines to follow for the upcoming session:
-
-1. **The session is informal.** This basically means: no slides! Just be prepared to explain the paper to our colleagues and, if you can, feel free to question as much as you can from it so we can spark discussion. Note that going through the paper directly has the added benefit of sharing with the crowd (especially junior folks) what papers on your particular science topic typically look like. Hence, why the "please don't bring slides" policy.
-
-2. **Be mindful of the different backgrounds.** While everyone is interested in exoplanets, there are colleagues working in other areas in the audience which might not have the same knowledge you have on the subject. Explaining non-standard concepts thus is very important! 
-
-3. **The moderator is _typically_ in charge of showing the paper on their end.** The presenter's job is then to guide them through equations and/or figures. If for some reason you would like to share the paper on your end as the presenter, that is of course fine --- let the moderator know before the start of the session.
-
-4. **Each paper is typically discussed by about 25 minutes.** Note it is typical for discussions to start _during_ the presentation of, e.g., figures. The moderator is in charge of letting you know when the time to discuss the current paper is up, so be prepared to "wrap up" or show the most important points or plots of the paper at any time. Discussions are dynamic (as they should!).
-
-5. **We abide by the [AAS Code of Ethics](https://aas.org/policies/ethics).**  We are dedicated to providing a harassment-free journal club experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of participants in any form. By participating on these sessions, you agree to abide by these statements as well.
-
-### ⚫ &nbsp; Past sessions
-
-Below is a full list of past sessions, all the way to the 2021 sessions:
 
 **2021 Sessions**
 
