@@ -27,7 +27,7 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid. The **location for our in-person component is on the left panel (under the logo); contact the organizers (see above) for the meeting link for the virtual component**, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
-### ⚫ &nbsp; 20223 Sessions
+### ⚫ &nbsp; 2023 Sessions
 
 Below is a list of upcoming and past sessions for the 2023 period (past sessions can be found at the bottom of the page). If you wish to present a paper in a future session, please let the moderators or the organizers know! Dates below in **bold** indicate an upcoming session.
 
