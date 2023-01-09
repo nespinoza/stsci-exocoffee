@@ -54,6 +54,7 @@ First of all, if you will be a presenter on an upcoming sesion: **thank you very
 Below is a full list of past sessions, all the way to the 2021 sessions:
 
 **2022 Sessions**
+
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
 | December 6, 2022 (I. Rebollido) | L. Dos Santos, C. Lu | [Mikal-Evans et al., 2022](https://arxiv.org/pdf/2211.15576.pdf); [Ohno et al., 2022](https://arxiv.org/pdf/2211.07706.pdf)|
