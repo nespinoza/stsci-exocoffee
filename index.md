@@ -34,7 +34,7 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
 | January 30, 2023 (N. Espinoza) | N. Oliveros-Gomez | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf) |
-| **January 17, 2023 (N. Espinoza)**  | | |
+| **January 17, 2023 (N. Espinoza)**  | S. Moran | [He et al., 2023](https://arxiv.org/abs/2301.02745) |
 
 ### ⚫ &nbsp; Guidelines for presenters
 
