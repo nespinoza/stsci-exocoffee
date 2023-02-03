@@ -33,8 +33,8 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| February 14, 2023   | E. Rickman, TBD | [Greenbaum et al., 2023](https://arxiv.org/pdf/2301.11455.pdf) |
-| **January 31, 2023 (N. Espinoza)** | N. Oliveros-Gomez, S. Moran | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf); [He et al., 2023](https://arxiv.org/abs/2301.02745) |
+| **February 14, 2023 (N. Espinoza)**   | E. Rickman, A. Gressier | [Greenbaum et al., 2023](https://arxiv.org/pdf/2301.11455.pdf); [Gressier et al., 2023](https://arxiv.org/) |
+| January 31, 2023 (N. Espinoza) | N. Oliveros-Gomez, S. Moran | [Oliveros-Gomez et al., 2022](https://arxiv.org/pdf/2210.01789.pdf); [He et al., 2023](https://arxiv.org/abs/2301.02745) |
 | January 17, 2023 (N. Espinoza)  | D. Sing | [Mikal-Evans et al., 2022](https://arxiv.org/abs/2301.03209) |
 
 ### ⚫ &nbsp; Guidelines for presenters
