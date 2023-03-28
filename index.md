@@ -33,7 +33,7 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **March 28, 2023** (N. Espinoza) | I. Rebollido, C. Lu | [Keyte et al., 2023](https://arxiv.org/abs/2303.08927), [Misener & Schlichting](https://arxiv.org/abs/2303.09653) |
+| **March 28, 2023** (N. Espinoza) | I. Rebollido, C. Lu | [Keyte et al., 2023](https://arxiv.org/abs/2303.08927), [Misener & Schlichting, 2023](https://arxiv.org/abs/2303.09653) |
 | March 14, 2023 (N. Espinoza) | S. Dietrich, N. Arulanantham | [Franson et al., 2023](https://arxiv.org/abs/2302.05420), [Parke Loyd et al., 2023](https://arxiv.org/abs/2302.10259) |
 | February 28, 2023 (N. Espinoza) | T. Berger, C. Lu | [Berger et al., 2023](https://arxiv.org/abs/2302.00009), [Janson et al., 2023](https://arxiv.org/abs/2302.10961) |
 | February 14, 2023 (I. Rebollido)   | E. Rickman, A. Gressier | [Greenbaum et al., 2023](https://arxiv.org/pdf/2301.11455.pdf); [Gressier et al., 2023](https://arxiv.org/) |
