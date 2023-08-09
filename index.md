@@ -33,7 +33,8 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **July 18, 2023**  |||
+| **August 29, 2023** |||
+| August 1, 2023 (L. Dos Santos) | E. Pol, L. Dos Santos | [Vaughan et al., 2023](https://arxiv.org/abs/2307.15137), [Barkaoui et al., 2023](https://arxiv.org/abs/2307.08350) |
 | June 20, 2023 (L. Dos Santos) | L. Dos Santos, E. Manjavacas | [Linssen & Oklopcic, 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230606971L/abstract), [Luhman et al., 2023](https://arxiv.org/abs/2305.18603)  |
 | June 6, 2023 (N. Espinoza)  | W. Balmer, N. Espinoza | [Follette et al., 2023](https://ui.adsabs.harvard.edu/abs/2023AJ....165..225F/abstract), [Wilson et al., 2023](https://arxiv.org/abs/2305.16204) |
 | May 9, 2023 (L. Dos Santos) | E. Manjavacas | [Manjavacas et al., 2023](https://ui.adsabs.harvard.edu/abs/2023AJ....165..181M/abstract), [Gaspar et al., 2023](https://www.nature.com/articles/s41550-023-01962-6) | 
