@@ -4,14 +4,7 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; Recent news
 
-- **[December 6, 2022]** We will take a Holiday + AAS break, Exocoffee will be back *January 17th*.
-
-- **[September 9, 2022]** We're going fully _hybrid_ on our Exocoffees; the on-site meeting place is room RE 220 (Rotunda 2nd floor). For JHU people that don't have STScI badges and would like to join the in-person component, please contact the Exocoffee organizers (very easy to set this up!). The Exocoffee team will provide cookies; bring your own tea/coffee!
-
-- **[March 28, 2022]** We're changing the Exocoffee schedule from Monday's at 9 AM to Tuesdays at 3 PM. *Our last Monday 9 AM session will be on April 4th* (see below for the menu). Then, *our first Tuesday 3 PM session will happen on April 19th*. After this, given the week of May 3rd is Exoplanets IV, we *will be offsetting the exocoffee week to May 10th, and do every other week after that* (i.e., session following to that will be May 24th).
-
-- **[March 28, 2022]** We will be cancelling May 3rd's session and moving it to the next week due to Exoplanets IV.
-
+- **[August 28, 2023]** Exocoffee is back from its summer break --- next session happening on August 29th!
 
 ### ⚫ &nbsp; What is this "Exocoffee"?
 
@@ -33,7 +26,7 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **August 29, 2023** |||
+| **August 29, 2023 (N. Espinoza) ** | N. Arulanantham, N. Espinoza | [Boss & Kanodia, 2023](https://arxiv.org/abs/2308.12903), [Seager et al., 2023](https://www.nature.com/articles/s41598-023-39972-z) |
 | August 1, 2023 (L. Dos Santos) | E. Por, L. Dos Santos | [Vaughan et al., 2023](https://arxiv.org/abs/2307.15137), [Barkaoui et al., 2023](https://arxiv.org/abs/2307.08350) |
 | June 20, 2023 (L. Dos Santos) | L. Dos Santos, E. Manjavacas | [Linssen & Oklopcic, 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230606971L/abstract), [Luhman et al., 2023](https://arxiv.org/abs/2305.18603)  |
 | June 6, 2023 (N. Espinoza)  | W. Balmer, N. Espinoza | [Follette et al., 2023](https://ui.adsabs.harvard.edu/abs/2023AJ....165..225F/abstract), [Wilson et al., 2023](https://arxiv.org/abs/2305.16204) |
