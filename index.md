@@ -4,13 +4,15 @@ Welcome to the Space Telescope Science Institute (STScI) Exoplanetary Journal Cl
 
 ### ⚫ &nbsp; Recent news
 
+- **[September 01, 2023]** Starting this Fall, the organizers of the Exocoffee are now Kielan Hoch, who will moderate the Muller component, and Leonardo dos Santos, who will moderate the Rotunda component.
+
 - **[August 28, 2023]** Exocoffee is back from its summer break --- next session happening on August 29th!
 
 ### ⚫ &nbsp; What is this "Exocoffee"?
 
 STScI's Exocoffee is a classical academic journal club: we meet and discuss (typically recent) papers relevant to exoplanetary science in our sessions. Most of them will probably come from academic journals or the [arXiv](https://arxiv.org/list/astro-ph.EP/recent), but pre-prints in other places or submitted articles are also welcome! Anyone can volunteer to present a paper in the journal club.
 
-**The Exocoffee in 2023 is being organized by [Nestor Espinoza](http://nestor-espinoza.com/)**. The in-person component of the Exocoffee will have cookies; for now, please bring your own tea+coffee!
+**The Exocoffee is being organized by [Leonardo dos Santos](https://www.stsci.edu/~ldsantos/) and Kielan Hoch starting in the Fall 2023**. The in-person component of the Exocoffee will have cookies or other treats; for now, please bring your own tea+coffee!
 
 ### ⚫ &nbsp; Who can join the Exocoffee?
 
@@ -18,7 +20,7 @@ Everyone is invited to join our sessions, in particular STScI folks and the John
 
 ### ⚫ &nbsp; When? Where?
 
-STScI's Exocoffee happens **every other Tuesday at 3 PM**. Given STScI is moving to a hybrid situation, our meetings are also hybrid. The **location for our in-person component is on the left panel (under the logo); contact the organizers (see above) for the meeting link for the virtual component**, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
+STScI's Exocoffee happens **every other Tuesday at 3 PM**. The **location for our in-person component is on the left panel (under the logo); contact the organizers (see above) for the meeting link for the virtual component**, or check the link on the #exocoffee Slack channel in the STScI workspace if you are part of it.
 
 ### ⚫ &nbsp; 2023 Sessions
 
@@ -26,7 +28,9 @@ Below is a list of upcoming and past sessions for the 2023 period (past sessions
 
 | Date (moderator)                 | Presenters                         | Papers         |
 | ---------------------------------|:---------------------------------- | :--------------|
-| **August 29, 2023 (N. Espinoza) ** | N. Arulanantham, N. Espinoza | [Boss & Kanodia, 2023](https://arxiv.org/abs/2308.12903), [Seager et al., 2023](https://www.nature.com/articles/s41598-023-39972-z) |
+| **September 26, 2023 (TBD)** | D. Thorngren, TBD | [Yoshida et al., 2023](https://arxiv.org/abs/2309.09945), paper TBD |
+| September 11, 2023 (L. Dos Santos) | Q. Changeat, L. Pueyo | [Ren, 2023](https://arxiv.org/abs/2308.16912), [Madhusudhan et al., 2023](https://arxiv.org/abs/2309.05566) |
+| August 29, 2023 (N. Espinoza) | N. Arulanantham, N. Espinoza | [Boss & Kanodia, 2023](https://arxiv.org/abs/2308.12903), [Seager et al., 2023](https://www.nature.com/articles/s41598-023-39972-z) |
 | August 1, 2023 (L. Dos Santos) | E. Por, L. Dos Santos | [Vaughan et al., 2023](https://arxiv.org/abs/2307.15137), [Barkaoui et al., 2023](https://arxiv.org/abs/2307.08350) |
 | June 20, 2023 (L. Dos Santos) | L. Dos Santos, E. Manjavacas | [Linssen & Oklopcic, 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230606971L/abstract), [Luhman et al., 2023](https://arxiv.org/abs/2305.18603)  |
 | June 6, 2023 (N. Espinoza)  | W. Balmer, N. Espinoza | [Follette et al., 2023](https://ui.adsabs.harvard.edu/abs/2023AJ....165..225F/abstract), [Wilson et al., 2023](https://arxiv.org/abs/2305.16204) |
